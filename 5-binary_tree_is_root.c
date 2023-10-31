@@ -19,5 +19,5 @@ int binary_tree_is_root(const binary_tree_t *node)
 		root = 1;
 	}
 
-	return root;
+	return (root);
 }
