@@ -18,5 +18,5 @@ int binary_tree_is_leaf(const binary_tree_t *node)
 		leaf = 1;
 	}
 
-	return leaf;
+	return (leaf);
 }
